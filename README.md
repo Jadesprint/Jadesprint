@@ -11,7 +11,3 @@ Mis habilidades:
 +Python para scripting  
 +Appian  
 
-Hablo 3 idiomas:  
-+Español  
-+English  
-+普通话  
